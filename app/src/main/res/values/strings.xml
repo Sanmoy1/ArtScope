@@ -1,0 +1,42 @@
+<resources>
+    <!-- App Name -->
+    <string name="app_name">Art Institute Chicago</string>
+
+    <!-- Main Activity -->
+    <string name="search_hint">Search artworks…</string>
+    <string name="no_results">No artworks found</string>
+    <string name="network_error">Network error. Please check your connection.</string>
+    <string name="search_error">Error searching artworks</string>
+    <string name="loading">Loading…</string>
+
+    <!-- Artwork Details -->
+    <string name="artwork_image">Artwork image</string>
+    <string name="artwork_details">Artwork Details</string>
+    <string name="not_on_display">Not currently on display</string>
+    <string name="gallery_label">On display in %1$s</string>
+    <string name="dimensions_label">Dimensions: %1$s</string>
+    <string name="medium_label">Medium: %1$s</string>
+    <string name="date_label">Date: %1$s</string>
+    <string name="artist_label">Artist: %1$s</string>
+    <string name="credit_line_label">Credit: %1$s</string>
+    
+    <!-- Error Messages -->
+    <string name="error_loading_artwork">Error loading artwork details</string>
+    <string name="error_loading_image">Error loading image</string>
+    <string name="retry">Retry</string>
+    
+    <!-- Content Descriptions -->
+    <string name="cd_search_artwork">Search for artworks</string>
+    <string name="cd_clear_search">Clear search</string>
+    <string name="cd_artwork_thumbnail">Artwork thumbnail</string>
+    <string name="cd_full_screen_image">View full screen image</string>
+    <string name="cd_close_full_screen">Close full screen view</string>
+    
+    <!-- Menu Items -->
+    <string name="menu_share">Share</string>
+    <string name="menu_favorite">Add to favorites</string>
+    <string name="menu_unfavorite">Remove from favorites</string>
+    
+    <!-- Share -->
+    <string name="share_artwork">Check out "%1$s" by %2$s at the Art Institute of Chicago</string>
+</resources>
