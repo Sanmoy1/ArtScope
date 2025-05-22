@@ -18,7 +18,7 @@ A modern Android application that provides an elegant interface to explore the A
 ## Technical Stack 🛠️
 
 - **Architecture**: MVVM (Model-View-ViewModel)
-- **Language**: 100% Kotlin
+- **Language**: Kotlin
 - **Jetpack Components**:
   - ViewModel
   - LiveData
